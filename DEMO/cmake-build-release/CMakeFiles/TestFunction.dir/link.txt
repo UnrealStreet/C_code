@@ -1,0 +1,3 @@
+"D:\developer_tools\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\TestFunction.dir/objects.a
+F:\MinGW\mingw64\bin\ar.exe qc CMakeFiles\TestFunction.dir/objects.a @CMakeFiles\TestFunction.dir\objects1.rsp
+F:\MinGW\mingw64\bin\gcc.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\TestFunction.dir/objects.a -Wl,--no-whole-archive -o TestFunction.exe -Wl,--out-implib,libTestFunction.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestFunction.dir\linklibs.rsp

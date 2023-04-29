@@ -1,0 +1,2 @@
+F:\MinGW\mingw64\bin\ar.exe qc liblib.a CMakeFiles/lib.dir/Backgammon/game.c.obj
+F:\MinGW\mingw64\bin\ranlib.exe liblib.a

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/AddressBook/AddressBook.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/AddressBook/test.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Backgammon/game.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Backgammon/test.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test/01.c" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test/TestFunction.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test/first.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
